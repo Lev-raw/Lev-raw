@@ -1,16 +1,23 @@
-## Hi there 👋
+Hey there 👋
 
-<!--
-**Lev-raw/Lev-raw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Chinmay, a B.Tech student (Class of 2027) passionate about Artificial Intelligence and Machine Learning.
 
-Here are some ideas to get you started:
+I love building intelligent systems that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on:
+🚦 Intelligent Traffic Management System (AI + Computer Vision)
+
+My main focus:
+- Machine Learning
+- Computer Vision
+- Data Structures & Algorithms
+- Java & Python
+
+If I learn something, I build something with it.
+
+Goal: Become a top AI/ML Engineer and build impactful smart systems.
+
+Fun Facts:
+- I enjoy solving DSA problems
+- Gym + Coding = Perfect combo
+- Always improving, 1% better every day 📈
