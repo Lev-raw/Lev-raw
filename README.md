@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Chinmay Rakesh Sonawane
+## 👋 Hi, I'm Chinmay 
 
 I'm a **Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning**, currently pursuing my B.Tech at **Lakshmi Narain College of Technology & Science, Bhopal (Class of 2027)**.
 
