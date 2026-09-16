@@ -1,23 +1,26 @@
-Hey there 👋
+## 👋 Hi, I'm Chinmay Rakesh Sonawane
 
-I'm Chinmay, a B.Tech student (Class of 2027) passionate about Artificial Intelligence and Machine Learning.
+I'm a **Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning**, currently pursuing my B.Tech at **Lakshmi Narain College of Technology & Science, Bhopal (Class of 2027)**.
 
-I love building intelligent systems that solve real-world problems.
+I'm passionate about building practical software solutions and intelligent systems that address real-world problems. My interests span **AI/ML, Computer Vision, Data Structures & Algorithms, and Full Stack Web Development**.
 
-Currently working on:
-🚦 Intelligent Traffic Management System (AI + Computer Vision)
+### 💻 Technical Interests
 
-My main focus:
-- Machine Learning
-- Computer Vision
-- Data Structures & Algorithms
-- Java & Python
+* **Languages:** Java, Python, C++, JavaScript, SQL
+* **AI/ML:** Computer Vision, Object Detection
+* **Web Development:** HTML5, CSS3, JavaScript, React.js
+* **Core CS:** Data Structures & Algorithms, OOP, DBMS
+* **Tools:** Git, GitHub, VS Code, Jupyter Notebook
 
-If I learn something, I build something with it.
+### 🎯 My Approach
 
-Goal: Become a top AI/ML Engineer and build impactful smart systems.
+I believe in learning through implementation — understanding concepts, building projects, and continuously improving through problem-solving.
 
-Fun Facts:
-- I enjoy solving DSA problems
-- Gym + Coding = Perfect combo
-- Always improving, 1% better every day 📈
+My goal is to grow into a skilled **AI/ML Engineer** while developing strong software engineering fundamentals and contributing to impactful, intelligent systems.
+
+### ⚡ Beyond Coding
+
+* Solving DSA problems in Java
+* Exploring AI/ML and Computer Vision projects
+* Gym + Coding = Perfect combo 💪
+* Always striving to improve, one step at a time 📈
